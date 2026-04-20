@@ -1,0 +1,6 @@
+Order_ID,Customer,Order_Amount,Days_to_Payment
+101,A,5000,5
+102,B,7000,7
+103,C,3000,3
+104,D,9000,10
+105,E,6000,6
